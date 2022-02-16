@@ -1,5 +1,8 @@
 _repo: The-Life-of-That-Wonderful-and-Extraordinarily-Heavy-Man-Daniel-Lambert-From-His-Birth-to-the__67328
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67328-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67328#The-Life-of-That-Wonderful-and-Extraordinarily-Heavy-Man-Daniel-Lambert-From-His-Birth-to-the_
 gutenberg_issued: '2022-02-05'
 identifiers:
   gutenberg: '67328'
